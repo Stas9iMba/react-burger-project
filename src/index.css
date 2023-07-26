@@ -6,7 +6,8 @@
 :root {
   --main-color: #0079FF;
   --main-color-hover: #60ABFF;
-
+  --primary-color: #db4129;
+  --button-background-color: #3fab9f;
   --white: #FFF;
 
   --gray-50: #F6F8FF;

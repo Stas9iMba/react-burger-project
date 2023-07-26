@@ -1,5 +1,12 @@
+import Container from '~components/Container';
+import Header from '~components/Header';
+
 function App() {
-  return <h1>Hello Vite + React + TS</h1>;
+  return (
+    <Container>
+      <Header />
+    </Container>
+  );
 }
 
 export default App;
